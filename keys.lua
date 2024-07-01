@@ -1,3 +1,2 @@
 local keys = {
-    ["fag"] = true,
 }
